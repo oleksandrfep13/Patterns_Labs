@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "coordinates": [
+        50.4501,
+        30.5234
+    ],
+    "cars": [],
+    "trains": [
+        {
+            "id": 101,
+            "max_weight": 10,
+            "cars": []
+        }
+    ],
+    "history": []
+}

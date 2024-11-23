@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "coordinates": [
+        50.4501,
+        30.5234
+    ],
+    "metro_cars": [],
+    "trains": [
+        {
+            "id": 101,
+            "max_cars": 10,
+            "metro_cars": [
+                {
+                    "type": "HeavyMetroCar",
+                    "id": 6,
+                    "weight": 2000
+                }
+            ]
+        }
+    ],
+    "history": []
+}
